@@ -1,0 +1,8 @@
+@import url('./header.css');
+@import url('./reset.css');
+@import url('./main.css');
+@import url('./footer.css');
+
+body{
+  background: var(--system-violet, #6725A8);
+}
